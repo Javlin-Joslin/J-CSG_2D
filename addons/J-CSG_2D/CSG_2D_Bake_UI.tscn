@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://52q4euk6um7r"]
+
+[ext_resource type="Texture2D" uid="uid://di57jyickhdsd" path="res://addons/J-CSG_2D/Icons/CSG_2D_Combiner.svg" id="1_d7gft"]
+
+[node name="Csg2dBakeUi" type="MenuButton" unique_id=1198077360]
+offset_right = 90.0
+offset_bottom = 31.0
+text = "CSG_2D"
+icon = ExtResource("1_d7gft")
