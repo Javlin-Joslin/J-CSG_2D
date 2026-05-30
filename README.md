@@ -8,7 +8,7 @@ A Godot 4 addon that brings **2D Constructive Solid Geometry (CSG)** to your pro
 
 ## How it Works
 Just like with the built in 3D CSG nodes, you can use any of these nodes as a "root" shape and add other shape nodes to it as children, which can apply a boolean operation to said root shape based on their operation variable.
-![Boolean Operations Example](examples/boolean_ops.webp)
+![Boolean Operations Example](examples/boolean_ops.png)
 
 **Notes:**
 - You can have multiple operator nodes as children of one root node and they'll apply their operations in scene tree order.
